@@ -56,14 +56,14 @@ You can view the final C++ code I wrote for this exercise below.
 <tr>
 <td align="center">
 <br/>
-<a href="INSERT_YOUR_FILE_LINK_HERE">
+<a href="./Wan%20Faruq%20Jazli%20A25CS0372%20Lab%20Exer2%20(1).cpp">
 <img src="https://img.shields.io/badge/VIEW_CPP_CODE-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="View C++ Code" />
 </a>
 <br/>
 <br/>
 <b>Click the button above to view the code</b>
 <br/>
-<i>(Exercise 2 - C++ Program)</i>
+<i>(Wan Faruq Jazli A25CS0372 Lab Exer2 (1).cpp)</i>
 <br/>
 <br/>
 </td>

@@ -18,7 +18,7 @@
 
 ---
 
-##  Summary of the Talk
+## 📌 Summary of the Talk
 We attended a talk by **PPG**, a huge global company famous for paints and coatings. They shared how their **MY Technology Centre** supports their operations worldwide using three main digital areas:
 
 * **SAP Centre of Excellence (CoE)**
@@ -61,7 +61,7 @@ Here are a few pictures we took during the event.
 <br>
 <br>
 
-**Group Photo**
+**Group Photo with Future Data Engineers**
 <br>
 <img src="https://github.com/user-attachments/assets/a2e602df-d16b-435a-b150-3dc9ec43e97b" width="850" />
 
@@ -76,6 +76,6 @@ We were asked to design a poster to summarize what we learned from the talk.
 
 ### 🎨 My Assignment Poster
 
-<img src="INSERT_YOUR_POSTER_LINK_HERE" width="600" alt="My Poster Assignment" />
+<img src="images/PPG%20poster%20year%201.jpg" width="600" alt="My Poster Assignment" />
 
 </div>

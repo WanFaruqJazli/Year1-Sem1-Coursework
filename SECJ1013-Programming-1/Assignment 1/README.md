@@ -58,14 +58,14 @@ You can view the final flowchart we designed below.
 <tr>
 <td align="center">
 <br/>
-<a href="INSERT_YOUR_FILE_LINK_HERE">
-<img src="https://img.shields.io/badge/VIEW_FLOWCHART-0056D2?style=for-the-badge&logo=microsoft-visio&logoColor=white" alt="View Flowchart" />
+<a href="./Assignment%20pt1%20set%202%20faruq%20akmal.pdf">
+<img src="https://img.shields.io/badge/VIEW_FLOWCHART_PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View PDF" />
 </a>
 <br/>
 <br/>
-<b>Click the button above to view the file</b>
+<b>Click the button above to view the PDF file</b>
 <br/>
-<i>(Assignment 1 - Flowchart)</i>
+<i>(Assignment pt1 set 2 faruq akmal.pdf)</i>
 <br/>
 <br/>
 </td>

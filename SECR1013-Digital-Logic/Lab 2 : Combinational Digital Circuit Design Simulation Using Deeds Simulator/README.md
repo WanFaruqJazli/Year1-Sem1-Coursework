@@ -57,11 +57,11 @@ The primary goals of this session were to:
 
 ## 📝 Reflection
 
-> "As a first-year student, the Digital Logic Lab session focusing on the Deeds Simulator was a fun and eye-opening experience for me. It was my first hands-on exposure to designing and simulating combinational circuits using specialized software. Before this lab, logic gates and Boolean expressions felt very abstract because everything was learned on paper. Being able to virtually build the circuits and see them function in real-time helped me clearly understand how theoretical logic designs behave in a digital environment.
+> "Transitioning from physical hardware to the Deeds Simulator marked a significant step in my understanding of digital logic. While previous lessons dealt with abstract theories on paper, this session allowed me to visualize how signals propagate through a complex network in real-time.
 >
-> During the lab session, I learned how to use the d-DcS schematic editor to construct digital networks and generate timing diagrams to verify signal sequences. I realized the importance of the complete design cycle—starting from a problem description, like the LRT coach door system, to deriving truth tables and simplifying expressions using K-maps. These steps required patience and attention to detail, especially when converting the final design into NAND-only gates. Seeing the simulation confirm that my simplified NAND circuit worked exactly like the original design helped me better understand the power of universal gates.
+> Mastering the d-DcS environment was a key takeaway. I particularly appreciated the rigorous process of the 'LRT Coach Door' project—starting from a raw problem statement, deriving the Truth Table, and optimizing the logic via K-Maps. The challenge of converting the final design entirely into NAND gates was particularly rewarding; seeing the simulation verify that my universal gate implementation performed identically to the original design was a definitive 'aha' moment.
 >
-> Besides gaining technical knowledge in software simulation, this lab helped me connect Boolean theory with practical implementation, making the learning process more interactive and meaningful. I now feel more confident in simplifying complex logic and interpreting timing waveforms based on simulated results rather than purely theoretical assumptions."
+> Ultimately, this lab bridged the gap between mathematical boolean algebra and functional circuit design. I walk away with much greater confidence in my ability to analyze timing diagrams and debug logic errors—skills that are essential for my growth in computer science."
 
 ---
 
@@ -74,14 +74,14 @@ Since this lab relied heavily on software simulation, the complete findings, cir
 <tr>
 <td align="center">
 <br/>
-<a href="https://liveutm-my.sharepoint.com/:w:/r/personal/ahmadfariz_live_utm_my/_layouts/15/Doc.aspx?sourcedoc=%7B4BEB74DB-583D-437A-80AA-17CAB87C2304%7D&file=Lab%202.docx&action=default&mobileredirect=true">
-<img src="https://img.shields.io/badge/VIEW_FULL_LAB_REPORT-0056D2?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="View Lab 2 Handout" />
+<a href="./Lab%202%20Answer%20Faruq%20Akmal.pdf">
+<img src="https://img.shields.io/badge/VIEW_FULL_LAB_REPORT-0056D2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Lab 2 PDF" />
 </a>
 <br/>
 <br/>
-<b>Click the button above to access the full Lab 2 Handout (DOCX)</b>
+<b>Click the button above to view the PDF file</b>
 <br/>
-<i>(Hosted on UTM SharePoint)</i>
+<i>(Lab 2 Answer Faruq Akmal.pdf)</i>
 <br/>
 <br/>
 </td>

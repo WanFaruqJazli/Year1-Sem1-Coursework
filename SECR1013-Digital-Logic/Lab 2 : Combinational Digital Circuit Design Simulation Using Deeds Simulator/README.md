@@ -13,19 +13,19 @@
 ---
 
 ## 📖 Overview
-This lab session shifted focus from physical hardware to the **software simulation** of digital logic. We explored the fundamental principles of combinational logic circuit design, simplification, and optimization using **Boolean algebra** and **K-maps**.
+In this lab, we moved away from the physical hardware and focused on **software simulation**. We learned the basics of designing, simplifying, and optimizing logic circuits using **Boolean algebra** and **K-maps**.
 
-The core activity involved using the **Deeds Simulator (d-DcS)** to:
-1.  Construct digital networks.
-2.  Generate timing diagrams.
-3.  Verify logic behaviors through interactive animation.
+The main activity was using the **Deeds Simulator (d-DcS)** to do three things:
+1.  Draw the digital circuits on the computer.
+2.  Create timing diagrams to see how signals change.
+3.  Check if our logic was correct using the animation mode.
 
 ---
 
 ## 🎯 Objectives
-The primary goals of this session were to:
-- [x] **Master the Tool:** Learn to produce digital logic circuits and generate Truth Tables/Timing Diagrams using Deeds.
-- [x] **End-to-End Design:** Experience the complete cycle of a combinatorial circuit design (from problem statement to simulation).
+The main goals for this session were:
+- [x] **Learning the Software:** We wanted to learn how to create circuits and generate Truth Tables using the Deeds software.
+- [x] **Full Design Process:** We practiced the whole process of designing a circuit, starting from a word problem and finishing with a working simulation.
 
 ---
 
@@ -33,42 +33,42 @@ The primary goals of this session were to:
 
 | Software | Description |
 | :--- | :--- |
-| **Deeds Simulator (d-DcS)** | A graphical schematic editor used for building, animating, and analyzing digital networks. It allows for both interactive "animation" of inputs and timing-mode simulations to observe signal sequences over time. |
+| **Deeds Simulator (d-DcS)** | This is the program we used to draw and test our circuits. It lets us click switches on the screen to see the inputs and outputs change in real time. |
 
 ---
 
 ## 🧪 Laboratory Work
 
 ### Part 1: Circuit Analysis & Simplification
-**Task:** Given a specific logic circuit, we had to derive its initial Boolean expressions.
-* **Simplification:** Expressions were reduced to **Sum of Product (SOP)** and **Product of Sum (POS)** forms using De Morgan’s Theorem.
-* **Verification:** Manual calculations were cross-referenced by simulating the circuit in Deeds to generate truth tables and timing waveforms.
+**Task:** We were given a logic circuit and had to figure out the Boolean equation for it.
+* **Simplification:** We used De Morgan’s Theorem to make the equations smaller using **Sum of Product (SOP)** and **Product of Sum (POS)** forms.
+* **Verification:** We checked if our math was correct by building the circuit in Deeds and comparing the results.
 
 ### Part 2: The "LRT Coach Door" Design Challenge
-**Task:** Design a logic circuit to control an LRT coach door (Output: `OPEN` and `ALARM`) based on the coach's movement status and arrival at specific stations (`S1`, `S2`, `S3`).
+**Task:** We had to design a circuit to control an LRT train door. The outputs were `OPEN` and `ALARM`. We had to decide when the door should open based on if the train was moving and which station (`S1`, `S2`, `S3`) it was at.
 
 **The Design Process:**
-1.  **Logic Definition:** Defined input/output relations and constructed the Truth Table.
-2.  **Optimization:** Used **Karnaugh Maps (K-Maps)** to derive the most efficient SOP equations.
-3.  **Implementation:** Built the optimized circuit in Deeds Simulator.
-4.  **Universal Gates:** Converted the final design to use **only NAND gates**, demonstrating their property as Universal Gates.
+1.  **Logic Definition:** First, we looked at the requirements and made a Truth Table.
+2.  **Optimization:** We used **Karnaugh Maps (K-Maps)** to find the simplest equation possible.
+3.  **Implementation:** We built the optimized circuit inside the Deeds Simulator.
+4.  **Universal Gates:** We changed the final design to use **only NAND gates** to show that NAND gates can do everything.
 
 ---
 
 ## 📝 Reflection
 
-> "Transitioning from physical hardware to the Deeds Simulator marked a significant step in my understanding of digital logic. While previous lessons dealt with abstract theories on paper, this session allowed me to visualize how signals propagate through a complex network in real-time.
+> "Moving from the real chips to computer simulation was a big change for me. Before this, I only did the math on paper, but this session let me visualize the signals moving through the wires on the screen.
 >
-> Mastering the d-DcS environment was a key takeaway. I particularly appreciated the rigorous process of the 'LRT Coach Door' project—starting from a raw problem statement, deriving the Truth Table, and optimizing the logic via K-Maps. The challenge of converting the final design entirely into NAND gates was particularly rewarding; seeing the simulation verify that my universal gate implementation performed identically to the original design was a definitive 'aha' moment.
+> Learning the Deeds software was really useful. I liked the LRT Coach Door project because I had to start from scratch. I had to make the Truth Table and then use K-Maps to make it simple. It was a bit hard to change everything to NAND gates, but it was a great feeling when I pressed the simulation button and everything worked perfectly.
 >
-> Ultimately, this lab bridged the gap between mathematical boolean algebra and functional circuit design. I walk away with much greater confidence in my ability to analyze timing diagrams and debug logic errors—skills that are essential for my growth in computer science."
+> Overall, this lab helped me connect the math I learned in class with actual circuit design. I feel much more confident now in reading timing diagrams and finding mistakes in my logic."
 
 ---
 
 <div align="center">
 
 ## 📑 Full Lab Documentation
-Since this lab relied heavily on software simulation, the complete findings, circuit files, and timing diagrams are compiled in the document below.
+Since this lab was done on the computer, all my work, circuit files, and diagrams are in the file below.
 
 <table width="100%">
 <tr>

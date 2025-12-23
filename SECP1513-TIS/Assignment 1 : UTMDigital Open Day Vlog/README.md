@@ -65,7 +65,7 @@ Here are some moments from our visit to UTMDigital.
 
 | **Talk Presentation** | **Interview Session** | **Booth around UTMDigital** |
 | :---: | :---: | :---: |
-| <img src="./Slide%20during%20talk%201.jpg" width="250" /> | <img src="./Interview%20session.jpg" width="250" /> | <img src="./Booth%20around%20UTMDigital.jpg" width="250" /> |
+| <img src="images/Slide%20during%20talk%201.jpg" width="250" /> | <img src="images/Interview%20session.jpg" width="250" /> | <img src="images/Booth%20around%20UTMDigital.jpg" width="250" /> |
 
 </div>
 

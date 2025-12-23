@@ -80,7 +80,7 @@ Watch our full summary video of the visit below.
 <tr>
 <td align="center">
 <br/>
-<a href="[UTMDigital Open Day Vlog](https://www.youtube.com/embed/EsUxPhGpmXE)">
+<a href="https://www.youtube.com/watch?v=EsUxPhGpmXE">
 <img src="https://img.shields.io/badge/WATCH_ON_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Vlog" />
 </a>
 <br/>
@@ -93,3 +93,4 @@ Watch our full summary video of the visit below.
 </table>
 
 </div>
+

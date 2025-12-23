@@ -117,9 +117,9 @@ Here are the final results and our team photo.
 
 | **AND Gate Circuit** | **NAND Gate Circuit** |
 | :---: | :---: |
-| <img src="INSERT_AND_GATE_PHOTO_HERE" width="400" /> | <img src="INSERT_NAND_GATE_PHOTO_HERE" width="400" /> |
+| <img src="images/And%20gate.jpeg" width="400" /> | <img src="images/Nand%20Gate.jpeg" width="400" /> |
 | **Combined Logic Circuit** | **Group Photo** |
-| <img src="INSERT_COMBINED_GATE_PHOTO_HERE" width="400" /> | <img src="INSERT_GROUP_PHOTO_HERE" width="400" /> |
+| <img src="images/Combined%20Circuit.jpeg" width="400" /> | <img src="images/Groupmate%20Lab%201.jpeg" width="400" /> |
 
 </div>
 

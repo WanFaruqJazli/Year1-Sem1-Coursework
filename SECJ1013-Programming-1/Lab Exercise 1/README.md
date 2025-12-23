@@ -56,14 +56,14 @@ You can view the final flowchart I created for this exercise below.
 <tr>
 <td align="center">
 <br/>
-<a href="INSERT_YOUR_FILE_LINK_HERE">
-<img src="https://img.shields.io/badge/VIEW_FLOWCHART-0056D2?style=for-the-badge&logo=microsoft-visio&logoColor=white" alt="View Flowchart" />
+<a href="./Wan%20Faruq%20Jazli%20A25CS0372%20(1).pdf">
+<img src="https://img.shields.io/badge/VIEW_FLOWCHART-0056D2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Flowchart PDF" />
 </a>
 <br/>
 <br/>
-<b>Click the button above to view the file</b>
+<b>Click the button above to view the PDF file</b>
 <br/>
-<i>(Exercise 1 - Flowchart)</i>
+<i>(Wan Faruq Jazli A25CS0372 (1).pdf)</i>
 <br/>
 <br/>
 </td>

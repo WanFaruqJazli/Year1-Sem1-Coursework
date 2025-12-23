@@ -5,7 +5,7 @@
 
 | 👥 Group Name | 📅 Date |
 | :---: | :---: |
-| **DataSynergy** | **28 & 29 October 2025** |
+| **DataVenture** | **28 & 29 October 2025** |
 
 </div>
 

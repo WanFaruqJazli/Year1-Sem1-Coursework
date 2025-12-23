@@ -12,22 +12,22 @@
 ---
 
 ## 📌 Overview
-This lab session introduced the fundamental principles of **combinational logic circuits**. The primary focus was on the practical aspects of digital electronics, including wiring, breadboarding, and using real hardware to verify logic gate behaviors. 
+[cite_start]This lab session introduced the fundamental principles of **combinational logic circuits**[cite: 9, 10]. The primary focus was on the practical aspects of digital electronics, including wiring, breadboarding, and using real hardware to verify logic gate behaviors. 
 
-**Main Objective:** To construct basic logic circuits and verify their behavior using switches and LEDs, confirming the theoretical truth tables against physical results.
+[cite_start]**Main Objective:** To construct basic logic circuits and verify their behavior using switches and LEDs, confirming the theoretical truth tables against physical results[cite: 26, 27].
 
 ### 🧩 Logic Gates Used
-* **7408** — AND Gate
-* **7404** — NOT Gate (Inverter)
-* **7432** — OR Gate
+* [cite_start]**7408** — Quad 2-input AND Gate [cite: 31]
+* [cite_start]**7404** — Hex Inverter (NOT Gate) [cite: 32]
+* [cite_start]**7432** — Quad 2-input OR Gate [cite: 34]
 
 ---
 
 ## 🎯 Learning Objectives
-By the end of this session, the following competencies were practiced:
-1.  **Technique:** Mastering basic breadboarding and wiring techniques.
-2.  **Implementation:** Using input switches and output LEDs to generate truth tables.
-3.  **Verification:** Confirming the characteristics of basic logic gates through physical testing.
+[cite_start]By the end of this session, the following competencies were practiced[cite: 24]:
+1.  [cite_start]**Technique:** Mastering basic breadboarding and wiring techniques[cite: 25].
+2.  [cite_start]**Implementation:** Using input switches and output LEDs to generate truth tables for combinational logic circuits[cite: 26, 27].
+3.  [cite_start]**Verification:** Confirming the characteristics of basic logic gates through physical testing[cite: 28].
 
 ---
 
@@ -35,9 +35,9 @@ By the end of this session, the following competencies were practiced:
 
 | Item | Description |
 | :--- | :--- |
-| **Breadboard** | Platform for wiring the circuits without soldering. |
-| **IC Chips** | 7408 (AND), 7404 (NOT), 7432 (OR). |
-| **ETS-5000 Kit** | Digital Training Kit providing power, switches, and LEDs. |
+| **Breadboard** | [cite_start]Platform for wiring the circuits without soldering[cite: 30]. |
+| **IC Chips** | [cite_start]7408 (AND), 7404 (NOT), 7432 (OR)[cite: 31, 32, 34]. |
+| **ETS-5000 Kit** | [cite_start]Digital Training Kit providing power, switches, and LEDs[cite: 35]. |
 
 ---
 
@@ -46,37 +46,37 @@ By the end of this session, the following competencies were practiced:
 ### 🔌 Breadboarding & Wiring
 | Topic | Key Practice |
 | :--- | :--- |
-| **Wire Gauge** | Used **22 gauge wire** to prevent damaging the breadboard contacts. |
-| **Color Coding** | **RED** (`VCC`), **BLACK** (GND), **BLUE** (Inputs), **YELLOW** (Signals). |
-| **Neatness** | Wires were cut to appropriate lengths to lie flat. |
-| **IC Care** | **Orientation:** `VCC` to +5V, `GND` to Ground. **Insertion:** Pins bent vertically before insertion. |
+| **Wire Gauge** | [cite_start]Used **22 gauge wire** to prevent damaging the breadboard contacts[cite: 41]. |
+| **Color Coding** | [cite_start]**RED** (`VCC`), **BLACK** (GND), **BLUE** (Inputs), **YELLOW** (Signals)[cite: 43]. |
+| **Neatness** | [cite_start]Wires were cut to appropriate lengths to lie flat[cite: 44]. |
+| **IC Care** | [cite_start]**Orientation:** All ICs arranged in the same direction to facilitate `VCC` (5V) and `GND` connections[cite: 51]. [cite_start]Pins bent vertically before insertion[cite: 49]. |
 
 ### 📟 Circuit Monitoring
 | Component | Function |
 | :--- | :--- |
-| **Mode Switch** | Set to **TTL** (Transistor-Transistor Logic). |
-| **LED Monitor** | 🟢 **GREEN** = Low (0) <br> 🔴 **RED** = High (1) |
-| **Logic Probe** | Used to detect **H** (High), **L** (Low), or **P** (Pulse). |
-| **Switches** | 8 toggle switches used for Binary Inputs (1 or 0). |
+| **Mode Switch** | [cite_start]Set to **TTL** (Transistor-Transistor Logic)[cite: 61]. |
+| **LED Monitor** | [cite_start]🟢 **GREEN** = Low (0) <br> 🔴 **RED** = High (1)[cite: 58]. |
+| **Logic Probe** | [cite_start]Used to detect **H** (High), **L** (Low), or **P** (Pulse)[cite: 63]. |
+| **Switches** | [cite_start]8 toggle switches used for Binary Inputs (1 or 0)[cite: 65, 66]. |
 
 ---
 
 ## 🧪 Laboratory Work & Results
 
 ### Part 1: AND Gate Circuit
-Built using the **7408 IC**. We verified the circuit by testing all possible input combinations.
+Built using the **7408 IC**. [cite_start]We verified the circuit by testing all possible input combinations[cite: 111, 115].
 
-| A | B | Output |
+| A | B | Output (F) |
 | :-: | :-: | :-: |
 | 0 | 0 | 0 |
 | 0 | 1 | 0 |
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-### Part 2: NAND Gate Circuit
-Constructed using a **7408 IC (AND)** connected to a **7404 IC (NOT)**. The resulting truth table confirmed the NAND logic function.
+### Part 2: NAND Gate Equivalent
+Constructed using a **7408 IC (AND)** connected to a **7404 IC (NOT)** to simulate a NAND gate. [cite_start]The truth table confirmed the NAND logic function[cite: 77, 125].
 
-| A | B | C (Intermediate) | Output |
+| A | B | C (Intermediate) | Output (F) |
 | :-: | :-: | :-: | :-: |
 | 0 | 0 | 0 | 1 |
 | 0 | 1 | 0 | 1 |
@@ -84,9 +84,9 @@ Constructed using a **7408 IC (AND)** connected to a **7404 IC (NOT)**. The resu
 | 1 | 1 | 1 | 0 |
 
 ### Part 3: Combined Logic Circuit
-A complex circuit using **7408, 7404, and 7432 ICs**. We demonstrated that this multi-gate circuit could be simplified using Boolean algebra to a single-gate equivalent.
+A complex circuit using **7408, 7404, and 7432 ICs**. [cite_start]We demonstrated that this multi-gate circuit could be simplified using Boolean algebra to a single-gate equivalent (OR gate behavior demonstrated)[cite: 142, 143].
 
-| A | B | C | D | Output |
+| A | B | C | D | Output (F) |
 | :-: | :-: | :-: | :-: | :-: |
 | 0 | 0 | 0 | 0 | 0 |
 | 0 | 1 | 0 | 1 | 1 |
@@ -124,4 +124,4 @@ Here are the final results from the hands-on session.
 ---
 
 ## 📎 Resources
-* [📄 View Lab 1 Handout (PDF)](
+* [📄 **Download Lab 1 Handout (PDF)**](./Lab.1.-.Handout.pdf)

@@ -111,25 +111,17 @@ A complex circuit using **7408, 7404, and 7432 ICs**. We demonstrated that this 
 ---
 
 ## 📸 Lab Gallery
-Here are the highlights from the hands-on session.
+Here are the final results from the hands-on session.
 
 <div align="center">
 
-| **The Setup** | **The Components** |
+| **Final Circuit Setup** | **Output Verification** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/32d9a39a-ee35-4302-9f34-ef1f9b41f5dd" width="300" /> <br> *Breadboard Preparation* | <img src="https://github.com/user-attachments/assets/21afd3b2-f93a-4154-91c4-7350875cf8de" width="300" /> <br> *7408, 7404, and 7432 ICs* |
-
-| **Part 1: AND Gate** | **Part 2: NAND Gate** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/49a45409-a11a-410c-adad-2a74fadb9c8a" width="300" /> | <img src="https://github.com/user-attachments/assets/14b3f9e0-4e89-461b-bcdb-6d8d6b883a49" width="300" /> |
-
-| **Part 3: Combined Logic** | **Circuit Testing** |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/78e6f6d2-667e-4214-a250-c5d853b1bb8b" width="300" /> | <img src="https://github.com/user-attachments/assets/20f10d41-c6c3-4b5d-9b8a-a51d666cc68b" width="300" /> |
+| <img src="INSERT_YOUR_LINK_HERE" width="400" /> | <img src="INSERT_YOUR_LINK_HERE" width="400" /> |
 
 </div>
 
 ---
 
 ## 📎 Resources
-* [📄 View Lab 1 Handout (PDF)](https://github.com/user-attachments/files/24141028/Lab.1.-.Handout.pdf)
+* [📄 View Lab 1 Handout (PDF)](

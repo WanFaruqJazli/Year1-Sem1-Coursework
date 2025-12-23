@@ -5,29 +5,29 @@
 
 | 📅 Date | ⏰ Time | 📍 Location |
 | :---: | :---: | :---: |
-| **18 November 2025** | **11:00 AM – 1:00 PM** | **Digital Logic Lab (Room 328-02, N28)** |
+| **18 November 2025** | **11:00 AM to 1:00 PM** | **Digital Logic Lab (Room 328-02, N28)** |
 
 </div>
 
 ---
 
 ## 📌 Overview
-This lab session introduced the fundamental principles of **combinational logic circuits**. The primary focus was on the practical aspects of digital electronics, including wiring, breadboarding, and using real hardware to verify logic gate behaviors. 
+In this lab session, we learned about the basics of **combinational logic circuits**. We focused mostly on the practical side of things like how to do the wiring, how to use the breadboard, and using the real hardware to check how logic gates work.
 
-**Main Objective:** To construct basic logic circuits and verify their behavior using switches and LEDs, confirming the theoretical truth tables against physical results.
+**Main Objective:** We wanted to build basic circuits and check if they work using switches and LEDs. We compared our results with the truth tables we learned in class.
 
 ### 🧩 Logic Gates Used
-* **7408** — Quad 2-input AND Gate
-* **7404** — Hex Inverter (NOT Gate)
-* **7432** — Quad 2-input OR Gate
+* **7408** is the Quad 2-input AND Gate
+* **7404** is the Hex Inverter or NOT Gate
+* **7432** is the Quad 2-input OR Gate
 
 ---
 
-## 🎯 Learning Objectives
-By the end of this session, the following competencies were practiced:
-1.  **Technique:** Mastering basic breadboarding and wiring techniques.
-2.  **Implementation:** Using input switches and output LEDs to generate truth tables for combinational logic circuits.
-3.  **Verification:** Confirming the characteristics of basic logic gates through physical testing.
+## 🎯 What We Learned
+By the end of the class, we practiced these skills:
+1.  **Technique:** We learned how to use the breadboard and connect wires properly.
+2.  **Implementation:** We used switches for inputs and LEDs for outputs to see the results.
+3.  **Verification:** We tested the chips to make sure they followed the logic rules.
 
 ---
 
@@ -35,9 +35,9 @@ By the end of this session, the following competencies were practiced:
 
 | Item | Description |
 | :--- | :--- |
-| **Breadboard** | Platform for wiring the circuits without soldering. |
-| **IC Chips** | 7408 (AND), 7404 (NOT), 7432 (OR). |
-| **ETS-5000 Kit** | Digital Training Kit providing power, switches, and LEDs. |
+| **Breadboard** | This is the board we use to connect everything without soldering. |
+| **IC Chips** | We used the 7408, 7404, and 7432 chips. |
+| **ETS-5000 Kit** | The main kit that has the power supply, switches, and LEDs. |
 
 ---
 
@@ -46,25 +46,25 @@ By the end of this session, the following competencies were practiced:
 ### 🔌 Breadboarding & Wiring
 | Topic | Key Practice |
 | :--- | :--- |
-| **Wire Gauge** | Used **22 gauge wire** to prevent damaging the breadboard contacts. |
-| **Color Coding** | **RED** (`VCC`), **BLACK** (GND), **BLUE** (Inputs), **YELLOW** (Signals). |
-| **Neatness** | Wires were cut to appropriate lengths to lie flat. |
-| **IC Care** | **Orientation:** All ICs arranged in the same direction to facilitate `VCC` (5V) and `GND` connections. Pins bent vertically before insertion. |
+| **Wire Gauge** | We used **22 gauge wire** so we do not damage the board. |
+| **Color Coding** | **RED** is for VCC, **BLACK** is for GND, **BLUE** is for Inputs, and **YELLOW** is for Signals. |
+| **Neatness** | We cut the wires to the right length so the board looks tidy. |
+| **IC Care** | **Orientation:** We put all chips facing the same way to make it easier to connect power and ground. We also bent the pins a little bit so they fit in. |
 
 ### 📟 Circuit Monitoring
 | Component | Function |
 | :--- | :--- |
-| **Mode Switch** | Set to **TTL** (Transistor-Transistor Logic). |
-| **LED Monitor** | 🟢 **GREEN** = Low (0) <br> 🔴 **RED** = High (1). |
-| **Logic Probe** | Used to detect **H** (High), **L** (Low), or **P** (Pulse). |
-| **Switches** | 8 toggle switches used for Binary Inputs (1 or 0). |
+| **Mode Switch** | We set this to **TTL** mode. |
+| **LED Monitor** | 🟢 **GREEN** means Low or 0 <br> 🔴 **RED** means High or 1. |
+| **Logic Probe** | We used this to check if a point was High, Low, or pulsing. |
+| **Switches** | We used the toggle switches to send 1 or 0 to the chips. |
 
 ---
 
 ## 🧪 Laboratory Work & Results
 
 ### Part 1: AND Gate Circuit
-Built using the **7408 IC**. We verified the circuit by testing all possible input combinations.
+We built this using the **7408 IC**. We checked the circuit by trying every combination of inputs.
 
 | A | B | Output (F) |
 | :-: | :-: | :-: |
@@ -74,7 +74,7 @@ Built using the **7408 IC**. We verified the circuit by testing all possible inp
 | 1 | 1 | 1 |
 
 ### Part 2: NAND Gate Equivalent
-Constructed using a **7408 IC (AND)** connected to a **7404 IC (NOT)** to simulate a NAND gate. The truth table confirmed the NAND logic function.
+We made a NAND gate by connecting a **7408 IC (AND)** to a **7404 IC (NOT)**. The truth table showed that it works just like a NAND gate.
 
 | A | B | C (Intermediate) | Output (F) |
 | :-: | :-: | :-: | :-: |
@@ -84,7 +84,7 @@ Constructed using a **7408 IC (AND)** connected to a **7404 IC (NOT)** to simula
 | 1 | 1 | 1 | 0 |
 
 ### Part 3: Combined Logic Circuit
-A complex circuit using **7408, 7404, and 7432 ICs**. We demonstrated that this multi-gate circuit could be simplified using Boolean algebra to a single-gate equivalent (OR gate behavior demonstrated).
+This was a harder circuit using **7408, 7404, and 7432 ICs** all together. We showed that we could simplify this big circuit into a smaller one using Boolean algebra.
 
 | A | B | C | D | Output (F) |
 | :-: | :-: | :-: | :-: | :-: |
@@ -97,16 +97,16 @@ A complex circuit using **7408, 7404, and 7432 ICs**. We demonstrated that this 
 
 ## 📝 Reflection
 
-> "As a first-year student, this lab session served as a crucial bridge between theoretical concepts and physical reality. While logic gates previously existed only as symbols in a textbook, handling the actual IC chips and breadboards brought those abstractions to life.
+> "As a first-year student, this lab was really new to me. Before this, I only saw logic gates in drawings, but now I got to touch the real chips and use the breadboard.
 >
-> The experience emphasized the discipline required in hardware implementation. I learned that circuit reliability depends heavily on neat wiring and correct IC orientation—lessons that became immediately apparent when troubleshooting connections to ensure clean signals.
+> It was a bit tricky at first. I learned that I have to be very careful with the wires and make sure the chips are facing the right way. If the wiring is messy, it is hard to find mistakes.
 >
-> Overall, verifying the truth tables with real hardware was a rewarding milestone. It has solidified my grasp of digital logic fundamentals and sparked a genuine interest in the practical intricacies of electronic design."
+> Overall, it was a cool experience to see the LEDs light up when I got the logic right. It helped me understand how digital logic actually works in real life."
 
 ---
 
 ## 💡 Suggestions for Improvement
-* **Post-Lab Discussion:** It would be beneficial to have a short review session after the lab to discuss common mistakes and reinforce the concepts learned.
+* **Post-Lab Discussion:** It would be good to have a short chat after the lab to talk about common mistakes so we can learn more.
 
 ---
 

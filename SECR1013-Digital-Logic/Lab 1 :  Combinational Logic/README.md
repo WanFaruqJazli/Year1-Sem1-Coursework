@@ -97,11 +97,11 @@ A complex circuit using **7408, 7404, and 7432 ICs**. We demonstrated that this 
 
 ## 📝 Reflection
 
-> "As a first-year student, the Digital Logic Lab session was a fun and eye-opening experience for me. It was my first hands-on exposure to digital logic using real hardware... Before this lab, logic gates felt very abstract because everything was learned on paper.
+> "As a first-year student, this lab session served as a crucial bridge between theoretical concepts and physical reality. While logic gates previously existed only as symbols in a textbook, handling the actual IC chips and breadboards brought those abstractions to life.
 >
-> During the lab session, I learned how to properly connect wires on the breadboard and ensure the circuit was neat and organized to avoid errors. I also realized the importance of checking the IC orientation carefully...
+> The experience emphasized the discipline required in hardware implementation. I learned that circuit reliability depends heavily on neat wiring and correct IC orientation—lessons that became immediately apparent when troubleshooting connections to ensure clean signals.
 >
-> Overall, I am grateful for this hands-on experience as it strengthened my understanding of digital logic and motivated me to keep improving my practical skills in the field of electronics."
+> Overall, verifying the truth tables with real hardware was a rewarding milestone. It has solidified my grasp of digital logic fundamentals and sparked a genuine interest in the practical intricacies of electronic design."
 
 ---
 

@@ -58,7 +58,7 @@ You can view the final flowchart we designed below.
 <tr>
 <td align="center">
 <br/>
-<a href="./Assignment%20pt1%20set%202%20faruq%20akmal.pdf">
+<a href="Assignment%20pt1%20set%202%20faruq%20akmal.pdf">
 <img src="https://img.shields.io/badge/VIEW_FLOWCHART_PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View PDF" />
 </a>
 <br/>
@@ -66,6 +66,9 @@ You can view the final flowchart we designed below.
 <b>Click the button above to view the PDF file</b>
 <br/>
 <i>(Assignment pt1 set 2 faruq akmal.pdf)</i>
+<br/>
+<br/>
+<a href="Assignment%20pt1%20set%202%20faruq%20akmal.pdf">🔗 <b>Alternative Link: Click Here if Button Fails</b></a>
 <br/>
 <br/>
 </td>

@@ -65,7 +65,7 @@ Here are some moments from our visit to UTMDigital.
 
 | **Data Engineering Slide** | **Interview Session** | **Group Photo** |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/892fcc5a-df1d-4630-9c8f-bd921efd110a" width="250" /> | <img src="https://github.com/user-attachments/assets/f252ee73-21c7-4147-b7d2-6829ade0743a" width="250" /> | <img src="https://github.com/user-attachments/assets/ce8b8b30-4950-480a-9c71-0e5bab4d9c87" width="250" /> |
+
 
 </div>
 

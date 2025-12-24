@@ -63,14 +63,14 @@ You can view the digital submission of our work below.
 <tr>
 <td align="center">
 <br/>
-<a href="INSERT_YOUR_FILE_LINK_HERE">
+<a href="ds%20assignment%202.pdf">
 <img src="https://img.shields.io/badge/VIEW_ASSIGNMENT_PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View PDF" />
 </a>
 <br/>
 <br/>
 <b>Click the button above to view the PDF file</b>
 <br/>
-<i>(Assignment 2 - Relations & Functions)</i>
+<i>(ds assignment 2.pdf)</i>
 <br/>
 <br/>
 </td>

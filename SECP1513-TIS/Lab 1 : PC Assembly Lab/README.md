@@ -40,6 +40,6 @@ Here are some moments captured during our hands-on session.
 
 | **PC Assembly** |
 | :---: |
-| <img src="INSERT_YOUR_IMAGE_LINK_HERE" width="250" alt="Placeholder 1" /> |
+| <img src="PC%20assembly.jpg" width="400" alt="PC Assembly" /> |
 
 </div>

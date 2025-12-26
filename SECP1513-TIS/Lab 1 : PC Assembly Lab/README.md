@@ -40,6 +40,6 @@ Here are some moments captured during our hands-on session.
 
 | **PC Assembly** |
 | :---: |
-| <img src="PCassembly.jpg" width="400" alt="PC Assembly" /> |
+| <img src="PCassembly.jpeg" width="400" alt="PC Assembly" /> |
 
 </div>

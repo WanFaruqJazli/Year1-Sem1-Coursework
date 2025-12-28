@@ -22,23 +22,21 @@
 We attended a talk by **PPG**, a huge global company famous for paints and coatings. They shared how their **MY Technology Centre** supports their operations worldwide using three main digital areas:
 
 * **SAP Centre of Excellence (CoE)**
-    This team uses a system called S/4HANA to help the company manage its business processes and keep everything running smoothly across different countries.
+    This team uses a system called S/4HANA to help the company manage its business processes and keep everything running smoothly across different countries.
 
 * **IT Infrastructure & Vendor Management**
-    They focus on the hardware and networks. Their job is to make sure the Cloud systems and internet connections (WAN/LAN) are secure and stable for everyone.
+    They focus on the hardware and networks. Their job is to make sure the Cloud systems and internet connections (WAN/LAN) are secure and stable for everyone.
 
 * **Data Analytics Centre of Excellence (CoE)**
-    This was about turning raw data into useful information. They use tools like SQL and Python to help the company make smarter business decisions.
+    This was about turning raw data into useful information. They use tools like SQL and Python to help the company make smarter business decisions.
 
 ---
 
 ## 📝 Reflection
 
-> "As a first-year student, this talk really opened my eyes. Before this, I thought PPG just sold paint, but I learned they are actually a massive tech-driven company that supplies coatings for things we use daily, like phone screens and drink cans.
+> "Honestly, this talk was an eye-opener. I used to think PPG just sold paint, but I was surprised to learn how tech-driven they are, coating everyday items like our phone screens.
 >
-> The best advice they gave was about our careers. They told us that having a 4.0 CGPA isn't enough. To really stand out, we need to have hands-on experience, technical skills, and good soft skills.
->
-> Seeing the different teams—like Cloud, SAP, and Data Analytics—helped me understand how many different IT roles work together. It made me realize that to be a good Data Engineer, I need to be good at coding but also good at solving logic problems. I am really excited to learn more so I can work in a place like this one day."
+> The biggest takeaway was that a 4.0 CGPA isn't everything. They emphasized that real experience and soft skills matter just as much. Seeing how teams like Cloud, SAP, and Data Analytics work together really clarified my path. I realized being a Data Engineer is about balancing coding with logic, and I’m motivated to start building those skills now."
 
 ---
 
@@ -79,3 +77,5 @@ We were asked to design a poster to summarize what we learned from the talk.
 <img src="images/PPG%20poster%20year%201.jpg" width="600" alt="My Poster Assignment" />
 
 </div>
+
+

@@ -73,7 +73,7 @@ Here are the key components of our solution.
 
 **The Prototype App Design**
 <br>
-<a href="PASTE_YOUR_CANVA_LINK_HERE">
+<a href="https://www.canva.com/design/DAG7xfdu_QA/JDZBS5tnD_6doWeVYvhVww/edit?utm_content=DAG7xfdu_QA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <img src="https://img.shields.io/badge/VIEW_PROTOTYPE_ON_CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="View on Canva" />
 </a>
 <br>

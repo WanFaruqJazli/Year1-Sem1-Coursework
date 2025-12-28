@@ -75,8 +75,8 @@ Here are the key moments from the session.
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://github.com/user-attachments/files/24306722/Assignment.3.Report.System.Development.docx">
-<img src="https://img.shields.io/badge/DOWNLOAD_ACADEMIC_WRITING-2B5797?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download DOCX" />
+<a href="./Report%20Assignment%203.pdf">
+<img src="https://img.shields.io/badge/DOWNLOAD_PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download PDF" />
 </a>
 <br/>
 <b>Click above to download the file</b>

@@ -66,7 +66,7 @@ You can view the final C++ source code below.
 <tr>
 <td align="center">
 <br/>
-<a href="Assignment2_Faruq_Akmal_Set2.cpp">
+<a href="Assigment2_Faruq_Akmal_Set2.cpp">
 <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="View Code" />
 </a>
 <br/>

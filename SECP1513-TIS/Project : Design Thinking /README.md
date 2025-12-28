@@ -44,7 +44,7 @@ For this project, we tackled a common struggle at the UTM cafeteria which is the
 
 ## 📝 Reflection
 
-> "This project really shifted my perspective. Before this, I honestly thought my degree was just about writing code and managing databases. But Design Thinking taught me that we have to understand the human side of the problem first.
+> "This project really shifted my perspective. Before this, I honestly thought my degree was just about writing code and managing databases. But Design Thinking taught me that we have to understand the human side of the problem first".
 >
 > We realized that it does not matter how advanced the technology is if it does not solve the user's actual stress. Moving from just 'coding' to 'problem-solving' was a big step for me. It helped me see that to be a successful Data Engineer in the future, I need to build systems that are not just technically strong but also practical for the people using them. It is about empathy just as much as it is about logic."
 

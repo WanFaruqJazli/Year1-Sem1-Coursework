@@ -1,9 +1,10 @@
 <div align="center">
 
-# SECP1513: Technology & Information Systems 💻
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4B0082,100:8A2BE2&section=header&text=Technology%20and%20Information%20System%20&fontSize=40&fontAlign=50&fontAlignY=35&desc=SECP1513%20%E2%80%A2%20Sem%201&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 
 <p>
-  <b>Universiti Teknologi Malaysia (UTM)</b>
+  <img src="https://img.shields.io/badge/Course-SECP1513-blueviolet?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-UTM-800000?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 </div>
@@ -12,43 +13,54 @@
 
 ## ℹ️ Course Information
 
-| Category | Details |
+<div align="center">
+
+| 🎓 Category | 📝 Details |
 | :--- | :--- |
-| **Lecturer** | Dr. Aryati binti Bakri |
+| **Lecturer** | **Dr. Aryati binti Bakri** |
 | **Section** | 02 |
 | **Student** | Wan Faruq Jazli |
+| **Faculty** | Faculty of Computing |
+
+</div>
+
+<br>
 
 ### 📝 Introduction
-This course introduces the fundamental ideas of information systems and technology in organizations. It covers comprehensive topics including computer hardware, software, networking, and system development to provide a holistic view of the IT landscape.
+> "Technology is the tool, but information systems are the blueprint for how organizations work."
+
+This course served as my big-picture introduction to the IT landscape. Instead of focusing on just one coding language, it provided a holistic view of the entire ecosystem, covering everything from the physical hardware we touch to the cloud networks that store our data. It emphasized how these technologies actually support decision-making in real-world organizations.
 
 ---
 
-## 📚 Topics Covered
+## 📚 Syllabus & Topics
+Here is the breakdown of the chapters we explored this semester:
 
-Here is the syllabus breakdown for the semester:
-
-- **Chapter 1** : Emerging Technology in Information Communication Technology (ICT)
-- **Chapter 2** : Hardware
-- **Chapter 3** : Software
-- **Chapter 4** : Information System & System Analysis and Design
-- **Chapter 5** : Databases and Data Analytics
-- **Chapter 6** : Networks and Communications
-- **Chapter 7** : Privacy, Security, and Ethics
-- **Chapter 8** : Cloud Computing
+| Chapter | Topic | Key Focus |
+| :---: | :--- | :--- |
+| 1️⃣ | **Emerging Technology** | AI, IoT, and current ICT trends. |
+| 2️⃣ | **Hardware** | Computer architecture, components, peripherals. |
+| 3️⃣ | **Software** | Operating systems, application software, utilities. |
+| 4️⃣ | **System Analysis & Design** | SDLC, Agile, requirements gathering. |
+| 5️⃣ | **Databases & Analytics** | Data management, Big data, Database. |
+| 6️⃣ | **Networks** | Internet protocols, LAN/WAN, wireless comms. |
+| 7️⃣ | **Security & Ethics** | Privacy laws, cyber threats, ethical computing. |
+| 8️⃣ | **Cloud Computing** | SaaS, PaaS, IaaS, virtualization. |
 
 ---
 
-## 💭 Reflection
+## 💭 Student Reflection
 
-> "Throughout this course, I gained a solid understanding of the basics of IT and how it’s used within organizations, especially in areas like data management and system design. I also learned about essential components such as hardware, software, and networking, and how information systems help support decision-making in real situations."
+### 💡 Key Highlights
+* **🛠️ Hands-on Hardware:** The **PC Assembly Lab** was a standout moment for me. Getting to actually handle the components and assemble a machine made the abstract hardware concepts click in a way that reading slides never could.
+* **🏢 Real-World Insight:** The **PPG Industry Talk** was eye-opening. It went beyond the textbook to show us what real job roles look like and the actual skills employers are hunting for right now.
+* **🔄 Understanding Development:** The **Serunai Talk** on System Development was equally impactful. It clarified the Software Development Life Cycle (SDLC) and Agile methodologies, showing me exactly how modern software projects are structured and managed.
 
-### 🛠️ Key Highlights
-
-* **PC Assembly Lab Practical:** One thing I really appreciated was the PC Assembly Lab. It was hands-on, engaging, and helped me and my classmates truly understand how different PC components work. I hope there will be more practical sessions like this in the future because they make the learning experience more meaningful.
-
-* **PPG Industry Talk:** I also enjoyed the PPG Industry Talk, which gave us valuable insight into real job roles, required skills, and career paths that we don’t usually hear about in textbooks. More industry sharing sessions like this would be incredibly helpful for students.
-
-* **Serunai Talk:** The session was equally impactful, specifically focusing on System Development. It provided a clear explanation of the Software Development Life Cycle (SDLC) and Agile methodologies, helping me understand how modern software projects are structured, managed, and adapted to change efficiently.
+### 📈 Suggestions for Improvement
+* *More Practical Labs:* Since the PC Assembly Lab was so effective, I would love to see even more practical sessions. Hands-on interaction really makes the learning experience feel meaningful.
+* *Continued Industry Engagement:* The industry sharing sessions were incredibly helpful for career planning. Having more of these sessions, perhaps covering different sectors of IT, would be a great addition for future students.
 
 ### 🚀 Conclusion
-Overall, this course has strengthened my understanding of how IT professionals play an important role across different industries. It also motivated me to not only focus on building technical skills but to think about how to apply them in real-world contexts so the knowledge becomes truly useful.
+Overall, this course connected the dots for me. It motivated me to not only focus on building technical skills but to think about how to apply them in real contexts. I now have a much stronger understanding of how IT professionals drive value across different industries.
+
+---

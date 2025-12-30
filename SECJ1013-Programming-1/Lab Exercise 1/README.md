@@ -12,38 +12,42 @@
 ---
 
 ## 📌 Overview
-This repository contains my personal record for **Lab Exercise 1 (Section 02)**. The main goal of this task was to practice logic design by creating a flowchart based on a specific problem set given by the lecturer.
+This entry serves as my personal record for **Lab Exercise 1 (Section 02)**. The main goal of this task was to practice logic design by creating a flowchart based on a specific problem set. It was a good exercise to test my ability to visualize a program before actually writing the code.
 
 ---
 
 ## 📝 Task Description
-I was assigned **Set 1**. The task was to design a flowchart that performs the following logic:
+I was assigned **Set 1**. The challenge was to design a flowchart that performs the following logic:
 
-1.  **Input:** Read an integer number from the user.
-2.  **Process:** Calculate the **sum of all digits** in that number.
-3.  **Check:** Identify if the calculated sum is a multiple of **3, 4, and/or 5**.
+1.  **Input:** The system reads an integer number provided by the user.
+2.  **Process:** It calculates the **sum of all digits** in that number.
+3.  **Check:** Finally, it identifies if that calculated sum is a multiple of **3, 4, or 5**.
 
 ### ⚙️ Technical Requirements
 To solve this, I had to follow these specific rules:
-* Use the **Division (/)** and **Modulus (%)** operators to separate the digits.
-* Use a **Post-Test Loop** (like a Do-While loop) to repeat the process.
+* Use the **Division (/)** and **Modulus (%)** operators to mathematically separate the digits one by one.
+* Use a **Post-Test Loop** (like a Do-While loop) to ensure the process repeats as needed.
 
 ---
 
 ## 🚀 Work Process
 Here is how I approached the exercise:
-1.  **Analysis:** I looked at the example output provided in the question to understand exactly what the program should do.
-2.  **Design:** I constructed the flowchart to handle the math and the loop correctly.
-3.  **Formatting:** I saved the file using the specific naming format requested by the lecturer.
+1.  **Analysis:** I started by looking at the example output in the question. This helped me understand exactly what the user is supposed to see and input.
+2.  **Design:** I sketched out the flowchart. The trickiest part was figuring out the loop condition and making sure the math for extracting digits was correct.
+3.  **Formatting:** Once the logic looked good, I saved the file using the specific naming format requested by the lecturer.
 4.  **Submission:** I submitted the final flowchart through the eLearning platform.
 
 ---
 
-## 🎯 Purpose of This Repository
-I am using this repository to:
-* Keep a safe record of my lab exercises.
-* Track my learning progress in the course.
-* Document the activities and coursework I have completed.
+## 💭 Reflection
+
+### 💡 Key Highlights
+* **The Math of Logic:** I learned a really useful technique for extracting digits. Using `% 10` to get the last digit and `/ 10` to remove it is a standard logic pattern that I know I will use in future coding tasks.
+* **Loop Logic:** This exercise clarified the difference between pre-test and post-test loops. I saw why a post-test loop is useful here because we always want the code to run at least once to process the user's input.
+
+### 📈 Suggestions for Improvement
+* **Input Handling:** The current flowchart assumes the user enters a positive integer. I think adding a check for negative numbers or non-integer inputs would make the logic much more robust.
+* **Step-by-Step Tracing:** To improve my understanding, I think adding a "trace table" alongside the flowchart would be helpful. It would allow me to manually track the variable values through each iteration of the loop to prove the logic works.
 
 ---
 

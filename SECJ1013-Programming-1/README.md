@@ -52,11 +52,14 @@ Here is the breakdown of the chapters we covered this semester:
 ## 💭 Student Reflection
 
 ### 💡 Key Highlights
-* **🧠 logical Growth:** This course taught me to approach problems logically. I learned the value of building clear algorithms before writing a single line of code.
+* **🧠 Logical Growth:** This course taught me to approach problems logically. I learned the value of building clear algorithms before writing a single line of code.
 * **🛠️ The Art of Debugging:** The process of writing and fixing programs trained me to be patient and detail-oriented. There is a specific kind of satisfaction that comes when the code finally compiles and runs exactly as intended.
+
+### 📈 Suggestions for Improvement
+* *Visualizing Memory:* Pointers were definitely the most challenging topic. I think incorporating more visual aids or diagrams to show exactly how memory addresses connect to data would make this concept much easier to visualize.
+* *Practical Projects:* While the exercises were great, I would have loved a slightly larger mini-project earlier in the semester. Building something like a simple inventory system would help connect topics like Arrays, Structs, and Functions in a more cohesive way.
 
 ### 🚀 Conclusion
 Overall, I felt proud whenever a program I wrote solved the problem at hand. By the end of the course, I had moved from simple "Hello World" concepts to writing programs that can handle data, use pointers, and perform complex operations. These are skills I know I will use constantly in my future projects.
 
 ---
-

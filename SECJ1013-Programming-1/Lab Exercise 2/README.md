@@ -12,38 +12,42 @@
 ---
 
 ## 📌 Overview
-This repository contains my personal record for **Lab Exercise 2 (Section 02)**. The main goal of this task was to take the logic we learned in the previous exercise and write a **complete C++ program** that actually works.
+This entry serves as my personal record for **Lab Exercise 2 (Section 02)**. The main goal of this task was to take the logic we designed in the previous flowchart exercise and translate it into a **complete C++ program** that actually works.
 
 ---
 
 ## 📝 Task Description
-I was assigned **Set 1** again. The task was to write a code that does the following:
+I worked on **Set 1** again. The challenge was to write code that performs the following steps:
 
 1.  **Input:** Ask the user to enter an integer number.
 2.  **Process:** Calculate the **sum of all the digits** in that number.
-3.  **Check:** Check if that sum is a multiple of **3, 4, and/or 5**.
+3.  **Check:** Check if that calculated sum is a multiple of **3, 4, or 5**.
 
 ### ⚙️ Technical Requirements
 My code had to follow these specific rules:
-* Use the **Division (/)** and **Modulus (%)** operators to split the numbers.
-* Use a **Post-Test Loop** (do-while loop) to make sure the program runs correctly.
+* Use the **Division (/)** and **Modulus (%)** operators to mathematically split the numbers.
+* Use a **Post-Test Loop** (do-while loop) to ensure the program executes the logic at least once before checking the condition.
 
 ---
 
 ## 🚀 Work Process
 Here is how I completed the exercise:
-1.  **Analysis:** I looked at the sample output the lecturer gave us to see how the program should look when it runs.
-2.  **Coding:** I wrote the C++ code to handle the math and the logic checks.
-3.  **Testing:** I ran the code to make sure it gave the same output as the question.
-4.  **Submission:** I saved the file with the correct name and uploaded it to eLearning.
+1.  **Analysis:** I reviewed the sample output provided by the lecturer to understand exactly how the program should behave when running.
+2.  **Coding:** I wrote the C++ code to handle the math for extracting digits and the logic checks for the multiples.
+3.  **Testing:** I ran the code multiple times with different numbers to make sure it produced the exact output required by the question.
+4.  **Submission:** I saved the file with the specific naming convention and uploaded it to eLearning.
 
 ---
 
-## 🎯 Purpose of This Repository
-I am using this repository to:
-* Keep a backup of my coding exercises.
-* Track how much I am learning in C++.
-* Record the work I have finished for my coursework.
+## 💭 Reflection
+
+### 💡 Key Highlights
+* **From Diagram to Code:** This exercise really helped me see the connection between design and implementation. It was satisfying to see the flowchart I drew in Lab 1 turn into a working program.
+* **Syntax Precision:** I realized that while logic is important, syntax is just as critical. I had to be very careful with the semicolon after the `while` condition in the do-loop, which is a common mistake I managed to avoid.
+
+### 📈 Suggestions for Improvement
+* **Modular Code:** Currently, I wrote all the logic inside the `main` function. For future exercises, I think it would be better to create a specific function like `int calculateSum(int n)` to handle the math. This would make the main code much cleaner and easier to read.
+* **User Experience:** The program just ends after one run. Adding a loop that asks "Do you want to try another number? (Y/N)" would make the program much more user-friendly and interactive.
 
 ---
 

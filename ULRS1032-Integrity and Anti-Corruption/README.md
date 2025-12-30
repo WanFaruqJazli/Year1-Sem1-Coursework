@@ -61,7 +61,7 @@ Here is the breakdown of the chapters we covered this semester:
 * **🛡️ Understanding Impact:** I gained a deeper appreciation for how corruption damages economic stability and trust. Learning about the actual legal frameworks and the SPRM Act made the issue feel much more real and urgent.
 
 ### 📈 Suggestions for Improvement
-* *Interactive Learning:* I think the course would be even more impactful with more interactive elements. Adding role-playing scenarios or video assignments would help make the concepts of integrity stick and feel more personal.
+Tech-Focused Ethics: Since many of us are from technical backgrounds, I would love to see a module specifically on "Digital Integrity." Discussing issues like data privacy breaches, algorithm bias, and intellectual property theft would make the anti-corruption principles feel directly applicable to our future careers in tech.
 
 ### 🚀 Conclusion
 Ultimately, this subject reshaped my perspective on professional conduct. It reinforced the idea that maintaining high ethical standards is essential. I now see it as my responsibility to contribute to a corruption-free society, not just for my own character development but for the good of the community.

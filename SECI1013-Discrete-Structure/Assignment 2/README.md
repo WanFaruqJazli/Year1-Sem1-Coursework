@@ -12,45 +12,49 @@
 ---
 
 ## 📌 Overview
-This repository records my work for **Assignment 2 (Section 02)**. The focus of this task was **Chapter 2: Relation, Function & Recurrence**. Unlike the previous assignment, this one fell during our midterm break, so even though we wrote our solutions by hand on A4 paper, we had to scan and submit them as a **soft copy** via eLearning.
+This entry logs my work for **Assignment 2 (Section 02)**. The focus of this task was **Chapter 2: Relation, Function & Recurrence**. Unlike the previous assignment, this one fell during our midterm break. So, even though we wrote our solutions by hand on A4 paper, we had to scan everything and submit it as a **soft copy** via eLearning.
 
 ---
 
 ## 📝 Task Description
-We were required to solve **7 comprehensive questions** that tested our understanding of discrete mathematical structures.
+We were tasked with solving **7 comprehensive questions** that really tested our grasp of discrete structures.
 
 **The questions covered three main areas:**
 
 ### 1. Relations
-* **Analysis:** Listing elements, domains, and ranges of a relation $R$.
-* **Visuals:** Drawing the digraph of the relation and checking if it is asymmetric.
-* **Matrices:** Constructing the matrix of relation and listing in-degrees/out-degrees.
-* **Properties:** Determining if a relation is a Partial Order Relation.
+* **Analysis:** We had to list elements, domains, and ranges of a relation $R$.
+* **Visuals:** This involved drawing the digraph of the relation and checking if it was asymmetric.
+* **Matrices:** We constructed the matrix of relation and listed the in-degrees and out-degrees.
+* **Properties:** We had to determine if a specific relation qualified as a Partial Order Relation.
 
 ### 2. Functions
-* **Types:** Determining whether a function is one-to-one, onto, or bijective.
-* **Operations:** Finding the inverse function and calculating composition functions.
+* **Types:** We determined whether a function was one-to-one, onto, or bijective.
+* **Operations:** This part required finding the inverse function and calculating composition functions.
 
 ### 3. Recurrence & Recursion
-* **Recurrence Relations:** Writing the relation and finding specific values (like $P_5$).
-* **Algorithms:** Writing a recursive algorithm to calculate the $n^{th}$ term of a sequence and tracing the steps manually (e.g., computing $s_4$).
+* **Recurrence Relations:** We wrote down the relation and found specific values, such as $P_5$.
+* **Algorithms:** We wrote a recursive algorithm to calculate the $n^{th}$ term of a sequence and manually traced the steps to compute values like $s_4$.
 
 ---
 
 ## 🚀 Work Process
-Here is how our group approached the assignment:
-1.  **Collaboration:** We discussed the 7 questions together to ensure we understood the logic for each proof and calculation.
-2.  **Manual Solving:** We wrote the solutions neatly on plain A4 paper, ensuring all diagrams and matrices were drawn clearly.
-3.  **Digitization:** Since this was due during the break, we scanned our handwritten pages to create a digital copy.
+Here is how my group tackled the assignment:
+1.  **Teamwork:** We discussed the 7 questions together first. This ensured we all understood the logic behind each proof and calculation before writing anything down.
+2.  **Writing it out:** We wrote the final solutions neatly on plain A4 paper. We made sure to draw the digraphs and matrices clearly so they were easy to read.
+3.  **Digitization:** Since the due date was during the break, we used a scanner app to convert our handwritten pages into a clean PDF.
 4.  **Submission:** We compiled the file and submitted it through the UTM eLearning platform.
 
 ---
 
-## 🎯 Purpose of This Repository
-I am using this repository to:
-* Keep a digital record of my handwritten assignments.
-* Track my mastery of Relations, Functions, and Recursion algorithms.
-* Maintain a complete portfolio of my coursework for this semester.
+## 💭 Reflection
+
+### 💡 What I Learned
+* **Connecting Math to Code:** The section on recursion was really interesting. Tracing the algorithm step by step gave me a better idea of how computer loops actually process data behind the scenes.
+* **Visualizing Relationships:** Drawing the digraphs and matrices helped me visualize how data points connect. It made the abstract idea of a "relation" much easier to grasp compared to just looking at equations.
+
+### 📈 Suggestions for Improvement
+* **Code Implementation:** Writing the recursive algorithm on paper was good practice, but I think actually coding it in C++ would have been even better. It would help connect the math theory directly to the programming skills we are learning in other classes.
+* **More Tracing Practice:** The manual tracing of the sequence was a bit prone to careless errors. Having more practice problems specifically on tracing complex recursion would make me feel more confident during exams.
 
 ---
 

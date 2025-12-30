@@ -25,9 +25,9 @@ In this lab session, we learned about the basics of **combinational logic circui
 
 ## 🎯 What We Learned
 By the end of the class, we practiced these skills:
-1.  **Technique:** We learned how to use the breadboard and connect wires properly.
-2.  **Implementation:** We used switches for inputs and LEDs for outputs to see the results.
-3.  **Verification:** We tested the chips to make sure they followed the logic rules.
+1.  **Technique:** We learned how to use the breadboard and connect wires properly.
+2.  **Implementation:** We used switches for inputs and LEDs for outputs to see the results.
+3.  **Verification:** We tested the chips to make sure they followed the logic rules.
 
 ---
 
@@ -95,18 +95,15 @@ This was a harder circuit using **7408, 7404, and 7432 ICs** all together. We sh
 
 ---
 
-## 📝 Reflection
+## 💭 Reflection
 
-> "As a first-year student, this lab was really new to me. Before this, I only saw logic gates in drawings, but now I got to touch the real chips and use the breadboard.
->
-> It was a bit tricky at first. I learned that I have to be very careful with the wires and make sure the chips are facing the right way. If the wiring is messy, it is hard to find mistakes.
->
-> Overall, it was a cool experience to see the LEDs light up when I got the logic right. It helped me understand how digital logic actually works in real life."
+### 💡 Key Highlights
+* **Hands-on Experience:** As a first-year student, this lab was really new to me. Before this, I only saw logic gates in drawings, but now I got to touch the real chips. It was a cool experience to see the LEDs light up when I finally got the logic right.
+* **The Importance of Precision:** I learned that I have to be very careful with the wires. If the wiring is messy, finding mistakes becomes almost impossible. It taught me that keeping the board tidy is not just for looks; it makes debugging much easier.
 
----
-
-## 💡 Suggestions for Improvement
-* **Post-Lab Discussion:** It would be good to have a short chat after the lab to talk about common mistakes so we can learn more.
+### 📈 Suggestions for Improvement
+* **Post-Lab Discussion:** It would be good to have a short chat after the lab to talk about common mistakes. Hearing what went wrong for other groups would help us learn faster.
+* **Component Testing:** I think we should learn how to test if a chip is broken before we start building. Sometimes we wasted time fixing the wiring when the problem was actually just a faulty IC chip.
 
 ---
 
@@ -124,6 +121,32 @@ Here are the final results and our team photo.
 </div>
 
 ---
+<div align="center">
 
-## 📎 Resources
-* [📄 **Download Lab 1 Handout (PDF)**](./Lab.1.-.Handout.pdf)
+## 📂 Lab Handout
+You can download the lab handout for this session below.
+
+<table width="100%">
+<tr>
+<td align="center">
+<br/>
+<a href="./Lab.1.-.Handout.pdf">
+<img src="https://img.shields.io/badge/VIEW_LAB_HANDOUT-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View PDF" />
+</a>
+<br/>
+<br/>
+<b>Click the button above to view the PDF file</b>
+<br/>
+<i>(Lab.1.-.Handout.pdf)</i>
+<br/>
+<br/>
+</td>
+</tr>
+</table>
+
+</div>
+</td>
+</tr>
+</table>
+
+</div>

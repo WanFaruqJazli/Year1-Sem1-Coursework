@@ -12,40 +12,44 @@
 ---
 
 ## 📌 Overview
-This repository contains my personal record for **Assignment 1 (Section 02)**. This task was a group assignment where we had to work in pairs. We were assigned **Set 2**, which required us to design a logic system for a **Loan Calculator**.
+This entry logs my work for **Assignment 1 (Section 02)**. This was a pair assignment where we had to work together to design a logic system. We were assigned **Set 2**, which required us to create the logic for a **Loan Calculator**.
 
 ---
 
 ## 📝 Task Description
-The main goal was to create a flowchart that helps users estimate their monthly loan installments to plan their finances better.
+The goal was to design a flowchart that helps users estimate their monthly loan installments. This is a practical tool for anyone trying to plan their finances better.
 
 To solve this, we had to:
-1.  **Analyze:** Look at the sample output provided in the question.
-2.  **Design:** Construct a flowchart that produces the exact same output.
-3.  **Structure:** Ensure the logic flows correctly from start to finish.
+1.  **Analyze:** We studied the sample output provided in the question to understand exactly what the user needed to see.
+2.  **Design:** We constructed a flowchart that would produce that exact output.
+3.  **Structure:** We had to make sure the logic flowed correctly from the Start node all the way to End.
 
 ### ⚙️ Technical Requirements
-The lecturer required us to apply specific logic structures in our flowchart:
-* **Branching:** We used `if..else` statements to make decisions.
-* **Loops:** We used a `do..while` loop (repeat..until) to allow the program to repeat.
-* **Functions:** We had to use **User-Defined Functions**. Aside from the main function, we created at least one extra function with appropriate arguments to handle specific calculations.
+The lecturer required us to apply specific programming concepts in our diagram:
+* **Branching:** We used `if..else` statements to make decisions based on user input.
+* **Loops:** We implemented a `do..while` loop to allow the program to repeat if the user wanted to calculate another loan.
+* **Functions:** We used **User-Defined Functions**. Aside from the main function, we created a specific function to handle the calculation logic separately.
 
 ---
 
 ## 🚀 Work Process
-Here is how we approached the assignment:
-1.  **Understanding:** We studied the loan calculation formula and the output requirements.
-2.  **Drafting:** We sketched the flow of the program, deciding where to put the loops and the functions.
-3.  **Refining:** We checked if the arguments passed to the functions were correct.
-4.  **Submission:** We saved the file with the correct naming format and submitted it via eLearning.
+Here is how my partner and I approached the assignment:
+1.  **Understanding:** We started by breaking down the loan calculation formula. We needed to know exactly which variables were inputs and which were outputs.
+2.  **Drafting:** We sketched the flow on paper first. This helped us decide where to place the loops and how to separate the calculation into its own function.
+3.  **Refining:** We double-checked the arguments we were passing to the functions to ensure the data was moving correctly between them.
+4.  **Submission:** Once the logic looked solid, we saved the file and submitted it via eLearning.
 
 ---
 
-## 🎯 Purpose of This Repository
-I am using this repository to:
-* Keep a detailed record of my assignments.
-* Track my progress in learning flowchart design.
-* Document the coursework I have completed.
+## 💭 Reflection
+
+### 💡 What I Learned
+* **Visualizing Logic:** This assignment taught me that coding is easier when you draw it out first. Seeing the logic flow on paper helped me catch errors in the loop structure that I might have missed if I just started coding immediately.
+* **Modular Thinking:** Using a specific function for the calculation made the flowchart much cleaner. It showed me why breaking big problems into smaller chunks is a core rule in programming.
+
+### 📈 Suggestions for Improvement
+* **Error Handling:** Our current flowchart assumes the user enters perfect numbers. I think adding checks for invalid inputs, like negative numbers for the loan amount, would make the logic much more robust.
+* **Complexity:** The current logic is quite linear. To challenge ourselves, we could have added different interest rate tiers based on the loan amount to make the calculator more realistic.
 
 ---
 

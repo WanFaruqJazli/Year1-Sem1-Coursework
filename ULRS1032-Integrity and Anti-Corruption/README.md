@@ -1,9 +1,12 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4B0082,100:8A2BE2&section=header&text=Integrity%20and%20Anti-Corruption%20&fontSize=40&fontAlign=50&fontAlignY=35&desc=ULRS1032%20%E2%80%A2%20Sem%201&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 
-# ULRS1032: Integrity and Anti-Corruption ⚖️
+</div>
 
 <p>
-  <b>Universiti Teknologi Malaysia (UTM)</b>
+  <div align="center">
+  <img src="https://img.shields.io/badge/Course-ULRS1032-blueviolet?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-UTM-800000?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 </div>
@@ -12,43 +15,55 @@
 
 ## ℹ️ Course Information
 
-| Category | Details |
+<div align="center">
+
+| 🎓 Category | 📝 Details |
 | :--- | :--- |
-| **Lecturer** | Dr. Fahrul Irfan bin Ishak |
+| **Lecturer** | **Dr. Fahrul Irfan bin Ishak** |
 | **Section** | 14 |
 | **Student** | Wan Faruq Jazli |
+| **Faculty** | Faculty of Computing |
+
+</div>
+
+<br>
 
 ### 📝 Introduction
-This course explores the fundamental principles of ethics, honesty, and moral values within both personal and professional spheres. It highlights Malaysia's strategic efforts to uphold integrity and fight corruption. The curriculum emphasizes that integrity is not just a leadership quality but the bedrock for building trust across organizations and society at large.
+> "Integrity is doing the right thing, even when no one is watching."
+
+This course went beyond just learning laws. It explored the fundamental principles of ethics, honesty, and moral values in both personal and professional life. We looked closely at Malaysia's efforts to fight corruption and discussed why integrity is not just a leadership trait but the foundation of trust for everyone in society.
 
 ---
 
-## 📚 Topics Covered
+## 📚 Syllabus & Topics
+Here is the breakdown of the chapters we covered this semester:
 
-Here is the syllabus breakdown for the semester:
-
-- **Topic 1** : Konsep dan Kepentingan Nilai Dalam Kehidupan
-- **Topic 2** : Nilai Dalaman Dengan Pembentangan Jati Diri Dalam Menangani Rasuah
-- **Topic 3** : Integriti Teras Kesejahteraan
-- **Topic 4** : Rasuah Suatu Jenayah Serius
-- **Topic 5** : Agensi Pencegahan Rasuah dan Pemerkasaan Integriti
-- **Topic 6** : Rasuah Berdasarkan Akta SPRM 2009
-- **Topic 7** : Liabiliti Korporat
-- **Topic 8** : Jenayah Kolar Putih
-- **Topic 9** : Punca, Simptom dan Kesan Rasuah
-- **Topic 10** : Laporkan Rasuah, Langkah Pencegahan dan Inisiatif Kerajaan
-- **Topic 11** : Institusi Sosial Dalam Pembudayaan Integriti dan Anti-Rasuah
+| Chapter | Topic |
+| :---: | :--- |
+| 1️⃣ | **Konsep dan Kepentingan Nilai Dalam Kehidupan** |
+| 2️⃣ | **Nilai Dalaman & Jati Diri Dalam Menangani Rasuah** |
+| 3️⃣ | **Integriti Teras Kesejahteraan** |
+| 4️⃣ | **Rasuah Suatu Jenayah Serius** |
+| 5️⃣ | **Agensi Pencegahan Rasuah & Pemerkasaan Integriti** |
+| 6️⃣ | **Rasuah Berdasarkan Akta SPRM 2009** |
+| 7️⃣ | **Liabiliti Korporat** |
+| 8️⃣ | **Jenayah Kolar Putih** |
+| 9️⃣ | **Punca, Simptom dan Kesan Rasuah** |
+| 🔟 | **Langkah Pencegahan & Inisiatif Kerajaan** |
+| 1️⃣1️⃣ | **Institusi Sosial Dalam Pembudayaan Integriti** |
 
 ---
 
-## 💭 Reflection
+## 💭 Student Reflection
 
-> "Throughout this semester, I gained a deep appreciation for the vital roles of ethics and integrity. I explored the detrimental impact of corruption on economic stability and social trust, while also examining the legal frameworks and initiatives Malaysia has established to combat these issues."
+### 💡 Key Highlights
+* **⚖️ Beyond Technical Skills:** This course taught me a valuable lesson. True success is not just about having great technical skills. It requires a strong commitment to moral values. I realized that without integrity, professional achievements lose their value.
+* **🛡️ Understanding Impact:** I gained a deeper appreciation for how corruption damages economic stability and trust. Learning about the actual legal frameworks and the SPRM Act made the issue feel much more real and urgent.
 
-### 🛠️ Key Highlights
-* **Ethical Persistence:** The course taught me that true success extends beyond technical skills; it requires an unwavering commitment to moral values and ethical principles in every action I take.
-
-* **Suggestion for Improvement:** To enhance the learning experience, I believe incorporating more interactive elements—such as role-playing scenarios and video assignments—would make the concepts of integrity even more resonant and memorable.
+### 📈 Suggestions for Improvement
+* *Interactive Learning:* I think the course would be even more impactful with more interactive elements. Adding role-playing scenarios or video assignments would help make the concepts of integrity stick and feel more personal.
 
 ### 🚀 Conclusion
-Ultimately, this subject has reshaped my perspective on professional conduct. It has reinforced the idea that maintaining high ethical standards is essential not only for personal character development but also for contributing to a corruption-free society.
+Ultimately, this subject reshaped my perspective on professional conduct. It reinforced the idea that maintaining high ethical standards is essential. I now see it as my responsibility to contribute to a corruption-free society, not just for my own character development but for the good of the community.
+
+---

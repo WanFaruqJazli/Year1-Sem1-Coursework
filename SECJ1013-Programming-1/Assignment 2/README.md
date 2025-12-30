@@ -12,48 +12,36 @@
 ---
 
 ## 📌 Overview
-This repository serves as my personal archive for **Assignment 2 (Section 02)**. This was a collaborative task where I worked with a partner to complete **Set 2**. Our goal was to translate logic into a fully functional C++ program by developing a **Car Loan Calculator** specifically for Proton vehicles.
+This entry serves as my personal archive for **Assignment 2 (Section 02)**. This was a collaborative task where I worked with a partner to complete **Set 2**. Our goal was to translate logic into a fully functional C++ program by developing a **Car Loan Calculator** specifically for Proton vehicles.
 
 ---
 
 ## 📝 Task Description
-The primary objective was to build a tool that allows users to estimate monthly loan installments for different car models (X50, Exora, Persona), helping them manage their financial planning more effectively.
+The primary objective was to build a tool that allows users to estimate monthly loan installments for different car models like the X50, Exora, and Persona. This helps users manage their financial planning more effectively.
 
 To achieve this, we followed these steps:
-1.  **Review:** We analyzed the sample output provided in the assignment brief.
-2.  **Develop:** We wrote a C++ program that calculates the monthly payment based on car price, down payment, interest rate, and loan period.
-3.  **Implement:** We ensured the code utilized specific programming constructs required by the lecturer.
+1.  **Review:** We analyzed the sample output provided in the assignment brief to understand exactly what was needed.
+2.  **Develop:** We wrote a C++ program that calculates the monthly payment based on variables like car price, down payment, interest rate, and the loan period.
+3.  **Implement:** We ensured the code utilized the specific programming constructs required by the lecturer.
 
 ### ⚙️ Technical Requirements
-We were required to integrate the following C++ elements into our solution:
-* **Selection:** We applied `if..else` statements to handle different car model selections and regions (Peninsular/East Malaysia).
-* **Repetition:** We utilized a `do..while` loop to allow users to perform multiple calculations without restarting the program.
-* **Modularization:** We implemented a User-Defined Function named `calcpayment` to handle the mathematical formulas separately from the main function.
+We integrated the following C++ elements into our solution:
+* **Selection:** We applied `if..else` statements to handle different car model selections and region specific costs (Peninsular vs East Malaysia).
+* **Repetition:** We utilized a `do..while` loop to allow users to perform multiple calculations without having to restart the program every time.
+* **Modularization:** We implemented a User-Defined Function named `calcpayment` to handle the mathematical formulas. This kept the calculation logic separate from the main interface.
 
 ---
 
 ## 💭 Reflection
-Working on this Proton Car Loan Calculator was a fantastic way to bridge the gap between abstract algorithms and actual coding. It helped me understand how to turn a logical concept into a working application.
 
-This task reinforced my grasp of C++ fundamentals like conditions and loops. I also learned the value of modular programming; breaking the calculation logic into the `calcpayment` function made the program much easier to read and maintain.
+### 💡 Key Highlights
+* **Bridging Theory and Practice:** Working on this calculator was a fantastic way to bridge the gap between abstract algorithms and actual coding. It helped me understand how to turn a logical concept on paper into a working application.
+* **The Power of Functions:** This task really reinforced the value of modular programming. Breaking the calculation logic into the `calcpayment` function made the code much easier to read and debug compared to stuffing everything into `main`.
+* **Collaborative Learning:** Working with a partner was a highlight. Discussing the logic together helped us refine the program faster than I could have done alone, and it gave me more confidence in tackling real programming problems.
 
-Collaborating with a partner was also a highlight. It made debugging much smoother, and discussing the logic together helped us refine the program faster than I could have done alone. It definitely gave me more confidence in tackling real-world programming problems.
-
----
-
-## 💡 Ideas for Future Improvements
-Based on this experience, I have a few suggestions for upcoming assignments:
-* **Clearer Examples:** Providing precise input and output formats would help reduce confusion and ensure everyone builds toward the same result.
-* **Peer Reviews:** Having a feedback session or code review before the final submission would be great for catching logic errors early.
-* **Version Control:** Encouraging the use of tools like GitHub for submission would be an excellent way to prepare us for industry standards.
-
----
-
-## 🎯 Purpose of This Repository
-I am using this repository to:
-* Maintain a history of my assignment submissions.
-* Monitor my growth in C++ programming.
-* Keep a log of completed coursework activities.
+### 📈 Suggestions for Improvement
+* **Input Validation:** Currently, the program assumes the user always types the correct car code. I think adding error handling for invalid inputs would make the application feel much more robust and professional.
+* **Data Scalability:** We hardcoded the prices for the specific car models. For a future version, using arrays or vectors to store a larger inventory of cars would be a much more efficient way to handle the data.
 
 ---
 

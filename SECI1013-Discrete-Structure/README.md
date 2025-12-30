@@ -59,11 +59,3 @@ Here is the breakdown of the chapters we covered this semester:
 Overall, I can see now how mathematical thinking backs up almost every part of computing, from database structures to software engineering. I find myself applying these concepts not just when I'm doing math, but when I'm trying to optimize my code and design better systems.
 
 ---
-
-<div align="center">
-  <br>
-  <a href="../README.md">
-    <img src="https://img.shields.io/badge/⬅️_Back_to_Main_Coursework_Archive-303030?style=for-the-badge" />
-  </a>
-  <br><br>
-</div>
